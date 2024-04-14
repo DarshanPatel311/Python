@@ -1,2 +1,6 @@
-a="Darshan"[::-1]
-print(a)
+
+
+x="hello "
+y="World"
+z=x+y
+print(z)
